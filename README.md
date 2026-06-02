@@ -12,10 +12,10 @@
 </pre></center>
 <center><h1 align=center>QUAREQUIN</h1></center>
 <center><p align=center>hello smile please. :))</p></center>
+<center><p align=center>Currents Name <b>QUAREQUIN</b></p></center>
 <hr>
-<p>Currents Name <b>Quarequin</b><p>
 <details> <summary>Formerly</summary>
-  <ul>
+  <ol>
     <li>Quarequin</li>
     <li>Quanerlfo</li>
     <li>Quanerise</li>
@@ -26,7 +26,7 @@
     <li>Phattisu</li>
     <li>Phattism</li>
     <li>Phatism</li>
-  </ul>
+  </ol>
 </details>
 <details><summary>legacy name</summary>
 <ol>
