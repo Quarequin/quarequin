@@ -1,32 +1,12 @@
 
-<center><pre align=center>
-      mm mm      
-      MM MM      
-      qM ""      
- MMMM .'V'.dMMMM 
- mmmmmp'.'q mmmm 
- """"'.dMb. """" 
-      mm MM      
-      MM MM      
-      "" ""      </pre></center>
-<center><details align=center><summary><h1 align=center>QUAREQUIN</h1></summary>
-<center><pre align=center>
-."""""""""""""""""""""""""".
-| ."". |  | ."". |"". |""" |
-| | .' |  | |""| |_.' |""  |
-|  " \  ""' '  ' '  ' '""" |
-|"""' '""""""""""""'. """""|
-| |". |"" ."". |  | ' |. | |
-| |.' |"  | .' |  | | | \| |
-| ' ' '""  " \  ""' | '  ' |
- """""""""""' '"""""  """"" </pre></center>
-</details></center>
+<center><pre align=center>."""""""""""""""""""""""""".&#10;| ."". |  | ."". |"". |""" |&#10;| | .' |  | |""| |_.' |""  |&#10;|  " \  ""' '  ' '  ' '""" |&#10;|"""' '""""""""""""'. """""|&#10;| |". |"" ."". |  | ' |. | |&#10;| |.' |"  | .' |  | | | \| |&#10;| ' ' '""  " \  ""' | '  ' |&#10; """""""""""' '"""""  """"" </pre></center>
+<center><h1 align=center>QUAREQUIN</h1></center>
 <center><p align=center>hello smile please. :))</p></center>
 <center><p align=center>Currents Name <b>QUAREQUIN</b></p></center>
 <hr>
 <details> <summary>Formerly</summary>
   <ol>
-    <li>Quarequin</li>
+    <li><b>Quarequin</b></li>
     <li>Quanerlfo</li>
     <li>Quanerise</li>
     <li>MaskPerlFo</li>
@@ -47,3 +27,4 @@
 </ol>
 </details>
 <hr>
+<center><pre align=center>      mm mm      &#10;      MM MM      &#10;      qM ""      &#10; MMMM .'V'.dMMMM &#10; mmmmmp'.'q mmmm &#10; """"'.dMb. """" &#10;      mm MM      &#10;      MM MM      &#10;      "" ""      </pre></center>
