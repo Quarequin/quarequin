@@ -11,10 +11,10 @@
       "" ""      
 </pre></center>
 
-<center><p align=center>QUAREQUIN</p></center>
+<center><h1 align=center>QUAREQUIN</h1></center>
 <center><p align=center>hello smile please. :))</p></center>
 
-<h3>username usage list</h3>
+<hr>
 <p>Currents Name <b>Quarequin</b><p>
 <details> <summary>Formerly</summary>
   <ol> 
@@ -30,3 +30,5 @@
     <li>Phatism</li>
   </ol>
 </details>
+<hr>
+<a href=#QUAREQUIN>Go to top</a>
