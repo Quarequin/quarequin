@@ -8,9 +8,19 @@
  """"'.dMb. """" 
       mm MM      
       MM MM      
-      "" ""      
-</pre></center>
-<center><h1 align=center>QUAREQUIN</h1></center>
+      "" ""      </pre></center>
+<center><details align=center><summary><h1 align=center>QUAREQUIN</h1></summary>
+<center><pre align=center>
+."""""""""""""""""""""""""".
+| ."". |  | ."". |"". |""" |
+| | .' |  | |""| |_.' |""  |
+|  " \  ""' '  ' '  ' '""" |
+|"""' '""""""""""""'. """""|
+| |". |"" ."". |  | ' |. | |
+| |.' |"  | .' |  | | | \| |
+| ' ' '""  " \  ""' | '  ' |
+ """""""""""' '"""""  """"" </pre></center>
+</details></center>
 <center><p align=center>hello smile please. :))</p></center>
 <center><p align=center>Currents Name <b>QUAREQUIN</b></p></center>
 <hr>
