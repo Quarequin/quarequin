@@ -8,6 +8,7 @@
   <ol>
     <li><b>Quarequin</b></li>
     <li>Quanerlfo</li>
+    <li>Quanefine</li>
     <li>Quanerise</li>
     <li>MaskPerlFo</li>
     <li>Phatiski</li>
@@ -15,7 +16,9 @@
     <li>Phatrisky</li>
     <li>Phattisu</li>
     <li>Phattism</li>
+    <li>Phatisena</li>
     <li>Phatism</li>
+    <li>Phatistic</li>
   </ol>
 </details>
 <details><summary>legacy name</summary>
