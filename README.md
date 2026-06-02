@@ -1,7 +1,7 @@
 
-
+<h3>username usage list</h3>
+<p>Currents Name <b>Quarequin</b><p>
 <details> <summary>Formerly</summary>
-  <h3>Currents Name <i>Quarequin</i></h3>
   <ol> 
     <li>Quarequin</li>
     <li>Quanerlfo</li>
