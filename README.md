@@ -6,27 +6,29 @@
 <hr>
 <details> <summary>Formerly</summary>
   <ol>
-    <li><b>Quarequin</b></li>
-    <li>Quanerlfo</li>
-    <li>Quanefine</li>
-    <li>Quanerise</li>
-    <li>MaskPerlFo</li>
-    <li>Phatiski</li>
-    <li>Phatisky</li>
-    <li>Phatrisky</li>
-    <li>Phattisu</li>
-    <li>Phattism</li>
-    <li>Phatisena</li>
-    <li>Phatism</li>
     <li>Phatistic</li>
+    <li>Phatism</li>
+    <li>Phatisena</li>
+    <li>Phattism</li>
+    <li>Phattisu</li>
+    <li>Phattiku</li>
+    <li>Phatrisky</li>
+    <li>Phatisky</li>
+    <li>Phatiski</li>
+    <li>Phattoko</li>
+    <li>MaskPerlFo</li>
+    <li>Quanerise</li>
+    <li>Quanefine</li>
+    <li>Quanerlfo</li>
+    <li><b>Quarequin</b></li>
   </ol>
 </details>
 <details><summary>legacy name</summary>
 <ol>
-  <li>Nimbus</li>
+  <li>Naphat MNN Extra NaphatService BG</li>
   <li>SenaMena</li>
   <li>Naphatism</li>
-  <li>Naphat MNN Extra NaphatService BG</li>
+  <li><del>Nimbus</del></li>
 </ol>
 </details>
 <hr>
