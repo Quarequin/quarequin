@@ -31,6 +31,7 @@
 <dl><dt>legacy name</dt>
   <dd>
     <ol>
+      <li>Naphat MNN Ultra NaphatService BG</li>
       <li>Naphat MNN Extra NaphatService BG</li>
       <li>Naphatism</li>
       <li>Phatzy</li>
