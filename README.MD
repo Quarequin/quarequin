@@ -4,6 +4,8 @@
 <center><p align=center>hello smile please. :))</p></center>
 <center><p align=center>Currents Name <b>QUAREQUIN</b></p></center>
 <hr>
+<center><table valign="top" align="center" width="307px" border="0" cellspacing="0" cellpadding="0">
+<tr><td>
 <dl> <dt>Formerly</dt>
   <dd>
     <ol>
@@ -25,6 +27,7 @@
     </ol>
   </dd>
 </dl>
+</td><td>
 <dl><dt>legacy name</dt>
   <dd>
     <ol>
@@ -36,5 +39,7 @@
     </ol>
   <dd>
 </dl>
+</td><tr>
+</table></center>
 <hr>
 <center><pre align=center>      mm mm      &#10;      MM MM      &#10;      qM ""      &#10; MMMM .'V'.dMMMM &#10; mmmmmp'.'q mmmm &#10; """"'.dMb. """" &#10;      mm MM      &#10;      MM MM      &#10;      "" ""      </pre></center>
