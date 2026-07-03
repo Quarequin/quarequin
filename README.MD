@@ -4,6 +4,9 @@
 <center><p align=center>hello smile please. :))</p></center>
 <center><p align=center>Currents Name <b>QUAREQUIN</b></p></center>
 <hr>
+<select>
+  <option selected>hello</option>
+</select>
 <center><table style="border-color:#0000;" valign="top" align="center" width="306px" height="500px" border="0" cellspacing="0" cellpadding="0">
 <tr><td width="50%">
 <dl> <dt>Formerly</dt>
