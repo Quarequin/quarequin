@@ -1,10 +1,10 @@
 
-<center><pre align=center>."""""""""""""""""""""""""".&#10;| ."". |  | ."". |"". |""" |&#10;| | .' |  | |""| |_.' |""  |&#10;|  " \  ""' '  ' '  ' '""" |&#10;|"""' '""""""""""""". """""|&#10;| |". |"" ."". |  | ' |. | |&#10;| |.' |"  | .' |  | | | \| |&#10;| ' ' '""  " \  ""' | '  ' |&#10; """""""""""' '"""""  """"" </pre></center>
+<center><pre style="background-color:#0000;" align=center>."""""""""""""""""""""""""".&#10;| ."". |  | ."". |"". |""" |&#10;| | .' |  | |""| |_.' |""  |&#10;|  " \  ""' '  ' '  ' '""" |&#10;|"""' '""""""""""""". """""|&#10;| |". |"" ."". |  | ' |. | |&#10;| |.' |"  | .' |  | | | \| |&#10;| ' ' '""  " \  ""' | '  ' |&#10; """""""""""' '"""""  """"" </pre></center>
 <center><h1 align=center>QUAREQUIN</h1></center>
 <center><p align=center>hello smile please. :))</p></center>
 <center><p align=center>Currents Name <b>QUAREQUIN</b></p></center>
 <hr>
-<center><table valign="top" align="center" width="306px" height="500px" border="0" cellspacing="0" cellpadding="0">
+<center><table style="border-color:#0000;" valign="top" align="center" width="306px" height="500px" border="0" cellspacing="0" cellpadding="0">
 <tr><td width="50%">
 <dl> <dt>Formerly</dt>
   <dd>
@@ -42,4 +42,4 @@
 </td><tr>
 </table></center>
 <hr>
-<center><pre align=center>      mm mm      &#10;      MM MM      &#10;      qM ""      &#10; MMMM .'V'.dMMMM &#10; mmmmmp'.'q mmmm &#10; """"'.dMb. """" &#10;      mm MM      &#10;      MM MM      &#10;      "" ""      </pre></center>
+<center><pre style="background-color:#0000;" align=center>      mm mm      &#10;      MM MM      &#10;      qM ""      &#10; MMMM .'V'.dMMMM &#10; mmmmmp'.'q mmmm &#10; """"'.dMb. """" &#10;      mm MM      &#10;      MM MM      &#10;      "" ""      </pre></center>
