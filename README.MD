@@ -4,7 +4,7 @@
 <center><p align=center>hello smile please. :))</p></center>
 <center><p align=center>Currents Name <b>QUAREQUIN</b></p></center>
 <hr>
-<center><table valign="middle" align="center" width="90%" height="500px" border="0" cellspacing="0" cellpadding="0">
+<center><table valign="middle" align="center" width="400px" height="500px" border="0" cellspacing="0" cellpadding="0">
 <tr><td width="50%">
 <dl> <dt>Formerly</dt>
   <dd>
