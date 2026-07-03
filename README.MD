@@ -31,8 +31,8 @@
       <li>Naphat MNN Extra NaphatService BG</li>
       <li>Naphatism</li>
       <li>Phatzy</li>
-      <li>SenaMena</li>
       <li><del>Nimbus</del></li>
+      <li>SenaMena</li>
     </ol>
   <dd>
 </dl>
