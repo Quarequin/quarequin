@@ -7,34 +7,35 @@
 <hr>
 <p></p>
 <details> <summary>Formerly</summary>
- <ol>
-   <li>Phatistic</li>
-   <li>Phatism</li>
-   <li>Phatisena</li>
-   <li>Phattism</li>
-   <li>Phattisu</li>
-   <li>Phattiku</li>
-   <li>Phatrisky</li>
-   <li>Phatisky</li>
-   <li>Phatiski</li>
-   <li>Phattoko</li>
-   <li>MaskPerlFo</li>
-   <li>Quanerise</li>
-   <li>Quanefine</li>
-   <li>Quanerlfo</li>
-   <li><b>Quarequin</b></li>
- </ol>
+<ol>
+			<li>Phatistic</li>
+			<li>Phatism</li>
+			<li>Phathism</li>
+			<li>Phatisena</li>
+			<li>Phattism</li>
+			<li>Phattisu</li>
+			<li>Phattiku</li>
+			<li>Phatrisky</li>
+			<li>Phatisky</li>
+			<li>Phatiski</li>
+			<li>Phattoko</li>
+			<li>MaskPerlFo</li>
+			<li>Quanerise</li>
+			<li>Quanefine</li>
+			<li>Quanerlfo</li>
+			<li><b>Quarequin</b></li>
+	</ol>
 </details>
 
-<details><summary>legacy name</summary>
- <ol>
-   <li>Naphat MNN Ultra NaphatService BG</li>
-   <li>Naphat MNN Extra NaphatService BG</li>
-   <li>Naphatism</li>
-   <li>Phatzy</li>
-   <li><del>Nimbus</del></li>
-   <li>SenaMena</li>
- </ol>
+<details><summary>Legacy name</summary>
+<ol>
+			<li>Naphat MNN Ultra NaphatService BG</li>
+			<li>Naphat MNN Extra NaphatService BG</li>
+			<li>SenaMena</li>
+			<li><del>Phatzy</del> <br> (aready used by <b>otheruser</b>)</li>
+			<li>Naphatism</li>
+			<li><del>Nimbus</del> <br> (aready used by <b>otheruser</b>)</li>
+		</ol>
 </details>
 
 <hr>
