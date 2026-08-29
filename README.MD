@@ -39,4 +39,4 @@
 </details>
 
 <hr>
-<center><pre style="background-color:#0000;" align=center>       MM MM       &#10;       MM MM       &#10;       qM ""       &#10; MMMMM .'V'.dMMMMM &#10; mmmmmmp'.'q mmmmm &#10; """""' '"b. """"" &#10;       MM MM       &#10;       MM MM       &#10;       "" ""       </pre></center>
+<center><pre style="background-color:#0000;" align=center>      mm mm      &#10;      MM MM      &#10;      qM ""      &#10; MMMM .'V'.dMMMM &#10; mmmmmp'.'q mmmm &#10; """"' '"b. """" &#10;      MM MM      &#10;      MM MM      </pre></center>
